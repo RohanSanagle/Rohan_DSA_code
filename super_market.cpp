@@ -1,15 +1,5 @@
 
 
-Skip to content
-Using Gmail with screen readers
-1 of 463
-(no subject)
-Inbox
-
-Rohan Sangale <rohansangale22@gmail.com>
-09:44 (8 minutes ago)
-to me
-
 #include <iostream>
 using namespace std;
 
