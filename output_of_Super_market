@@ -1,0 +1,33 @@
+--- Supermarket Customer Queue ---
+1. Add Customer
+2. Serve Customer
+3. Display Queue
+4. Exit
+Enter choice: 1
+Enter Customer ID: 101
+Customer added successfully.
+
+--- Supermarket Customer Queue ---
+1. Add Customer
+2. Serve Customer
+3. Display Queue
+4. Exit
+Enter choice: 1
+Enter Customer ID: 102
+Customer added successfully.
+
+--- Supermarket Customer Queue ---
+1. Add Customer
+2. Serve Customer
+3. Display Queue
+4. Exit
+Enter choice: 3
+Customer Queue: 101 -> 102 -> NULL
+
+--- Supermarket Customer Queue ---
+1. Add Customer
+2. Serve Customer
+3. Display Queue
+4. Exit
+Enter choice: 2
+Customer 101 is served.
