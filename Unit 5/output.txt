@@ -1,0 +1,29 @@
+ELECTRICAL SUBSTATION NETWORK USING KRUSKAL'S ALGORITHM
+
+Sample Input and Output
+
+Input:
+
+Enter number of substations: 4
+
+Enter substation names:
+A B C D
+
+Enter number of transmission lines: 5
+
+Enter lines (from to cost):
+A B 10
+A C 6
+B C 5
+B D 15
+C D 4
+
+Output:
+
+Minimum Spanning Tree:
+C - D : Cost = 4
+B - C : Cost = 5
+A - B : Cost = 10
+
+Minimum Total Construction Cost = 19
+
